@@ -1,4 +1,4 @@
-<img  width="100%" src="./received_907301549900034.jpg" alt="I am full stack web Developer">
+<img  width="50%" src="./received_907301549900034.jpg" alt="I am full stack web Developer">
 
 <center>
 <h1> Hi, I'm Forhadul Islam  👋</h1>
