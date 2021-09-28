@@ -70,6 +70,8 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 
 [<img align="left"  alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/83342210/120072229-94524d00-c0b4-11eb-9e07-1420e2e8ffe4.png" />](https://github.com/)
+ 
+[<img align="left"  alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
 
 <br />
 <br />
