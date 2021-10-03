@@ -3,7 +3,7 @@
 <center>
 <h1> Hi, I'm Forhadul Islam  👋</h1>
 </center>
-
+<!-- 
 <ul>
 <li>👑 I am Web Developer </li>
 <li>🖊️ Love to write code  </li>
@@ -99,3 +99,4 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdforhadulislam)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdforhadulislam)
+ -->
