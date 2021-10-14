@@ -49,7 +49,7 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 <br/>
 <hr/>
 
-<h2>Tools :</h2>
+<h2>Tools & Technology :</h2>
 
 <center style="text-align:center;">
 
