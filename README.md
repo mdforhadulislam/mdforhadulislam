@@ -1,6 +1,6 @@
 <a target="_blank" href="https://github.com/mdforhadulislam/"><img width="100%" height="650px" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 
-<center>
+ <center>
 <h1> Hi, I'm Forhadul Islam  👋</h1>
 </center>
 
