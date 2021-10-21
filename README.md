@@ -92,7 +92,7 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 ![GitHub metrics](https://metrics.lecoq.io/mdforhadulislam)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true)
 
