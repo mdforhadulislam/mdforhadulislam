@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/mdforhadulislam/"><img width="100%" height="650px" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
+<a target="_blank" href="https://github.com/mdforhadulislam/"><img align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 
  <center>
 <h1> Hi, I'm Forhadul Islam  👋</h1>
@@ -90,10 +90,10 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/mdforhadulislam) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdforhadulislam)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdforhadulislam) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true) -->
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdforhadulislam)
