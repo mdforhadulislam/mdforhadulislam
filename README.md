@@ -88,8 +88,6 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 <br/>
 <hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanvirtaher32)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub metrics](https://metrics.lecoq.io/mdforhadulislam)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
