@@ -88,13 +88,13 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 <br/>
 <hr/>
 
-![GitHub metrics](https://metrics.lecoq.io/mdforhadulislam)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mdforhadulislam) -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdforhadulislam)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true) -->
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdforhadulislam)
 
