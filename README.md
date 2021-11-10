@@ -1,16 +1,10 @@
-<a target="_blank" href="https://github.com/mdforhadulislam/">
-<img align="left" width="25%" style="display:inline" src="1478.jpg">
-</a>
 
- <center>
 <h1> Hi, I'm Forhadul Islam  👋</h1>
-</center>
 
-<ul>
-<li>👑 I am Web Developer </li>
-<li>🖊️ Love to write code  </li>
-<li>🎤 Like to share my knowledge  </li>
-</ul>
+
+👑 I am Web Developer <br/>
+🖊️ Love to write code  <br/>
+🎤 Like to share my knowledge
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/mdforhadulislam)
@@ -36,14 +30,14 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 </p>
 <hr/>
 
-- 😇I'm currently looking forword to join a team!
-- 🌱 I’m currently learning Python
-- 🧐I’m looking to collaborate with a team to get more knowledge!
-- 👯 I’m looking to collaborate on Open Source Projects!
-- 👨‍💻2021 Goals: Contribute more to my projects!
-- 🎶Fun fact: I love to draw and singing songs!
-- 📚Education: Studying in Atoumotive Engineering at Bangladesh corean teachnical trading center.
-- 💬 Ask me about Software Engineering & Web Development
+😇I'm currently looking forword to join a team!<br/>
+🌱 I’m currently learning Python<br/>
+🧐I’m looking to collaborate with a team to get more knowledge!<br/>
+👯 I’m looking to collaborate on Open Source Projects!<br/>
+👨‍💻2021 Goals: Contribute more to my projects!<br/>
+🎶Fun fact: I love to draw and singing songs!<br/>
+📚Education: Studying in Atoumotive Engineering at Bangladesh corean teachnical trading center.<br/>
+💬 Ask me about Software Engineering & Web Development
 
 <hr/>
 
