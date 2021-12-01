@@ -11,7 +11,7 @@
 
 <hr/>
 <center>
-<h2> I am a Full stack web developer</h2> 
+<h2> I am a Fontend web developer</h2> 
 <br>
 <p>
 I am student 📚📗📖👨🏻‍🎓✍ learning web design and development with a lot of heart 🧡.I have always had a great thrust to learn & explore different dimensions of life. I am so fond of learning new technologies & get updated about the tech industry to see in which direction the world is moving.
