@@ -36,8 +36,6 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 👯 I’m looking to collaborate on Open Source Projects!<br/>
 👨‍💻2021 Goals: Contribute more to my projects!<br/>
 🎶Fun fact: I love to draw and singing songs!<br/>
-📚Education: Studying in Atoumotive Engineering at Bangladesh corean teachnical trading center.<br/>
-💬 Ask me about Software Engineering & Web Development
 
 <hr/>
 
