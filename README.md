@@ -72,6 +72,6 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 <hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true&card_width=550)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam&card_width=500)](https://github.com/mdforhadulislam/mdforhadulislam)
