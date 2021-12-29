@@ -56,6 +56,8 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 [<img align="left"  align="left"   alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
 
 [<img align="left"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.w3schools.com/react/)
+ 
+<img align="left" alt="Styled Components" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
 
 [<img align="left"  alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/83342210/120072229-94524d00-c0b4-11eb-9e07-1420e2e8ffe4.png" />](https://github.com/)
 
@@ -72,6 +74,8 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 <hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&count_private=true&card_width=550)
-
+<img id="img-pc2" height="140" width="93em" display=inline-block src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
+ 
+<img width="500px" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=mdforhadulislam"/>
+  
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam&card_width=500)](https://github.com/mdforhadulislam/mdforhadulislam)
