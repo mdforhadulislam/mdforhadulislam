@@ -7,7 +7,7 @@
 🎤 Like to share my knowledge
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/mdforhadulislam)
+ <img src="https://komarev.com/ghpvc/?username=mdforhadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhadulislam" /> 
 
 <hr/>
 <center>
