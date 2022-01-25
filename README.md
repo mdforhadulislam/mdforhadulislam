@@ -26,6 +26,8 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 ✅ Bootstrap / TailwiendCSS<br>
 ✅ JavaScript <br>
 ✅ react <br>
+✅ styled-components <br>
+✅ react-redux <br>
 
 </p>
 <hr/>
@@ -43,25 +45,29 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web design and development 
 
 <center style="text-align:center;">
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-[<img align="left"  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
+[<img align="left"  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 
-[<img align="left"   alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
+[<img align="left"   alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 
-[<img align="left"  alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://www.w3schools.com/sass/)
+[<img align="left"  alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://www.w3schools.com/sass/)
 
-[<img align="left"   alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
+[<img align="left"   alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />](https://getbootstrap.com)
 
-[<img align="left"  align="left"   alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
+[<img align="left"  align="left"   alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/)
 
-[<img align="left"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.w3schools.com/react/)
+[<img align="left"  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.w3schools.com/react/)
  
-<img align="left" alt="Styled Components" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+ 
+[<img align="left"  alt="Styled Components" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />](https://styled-components.com/)
+ 
+ [<img align="left"  alt="React Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />](https://redux.js.org/)
+ 
+ 
+[<img align="left"  alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/83342210/120072229-94524d00-c0b4-11eb-9e07-1420e2e8ffe4.png" />](https://github.com/)
 
-[<img align="left"  alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/83342210/120072229-94524d00-c0b4-11eb-9e07-1420e2e8ffe4.png" />](https://github.com/)
-
-[<img align="left"  alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
+[<img align="left"  alt="GitHub" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
 
 </center>
 <br/>
