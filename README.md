@@ -79,8 +79,6 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot 
 <br/>
 
 <hr/>
-
-<img id="img-pc2" height="140" width="93em" display=inline-block src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
  
 <img width="500px" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=mdforhadulislam"/>
   
