@@ -25,9 +25,10 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot 
 ✅ CSS3 / SASS <br>
 ✅ Bootstrap / TailwiendCSS<br>
 ✅ JavaScript <br>
-✅ react <br>
-✅ styled-components <br>
-✅ react-redux <br>
+✅ React Js<br>
+✅ Styled-Components <br>
+✅ React-Redux <br>
+✅ Vue Js<br>
 
 </p>
 <hr/>
