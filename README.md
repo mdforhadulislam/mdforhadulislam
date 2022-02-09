@@ -17,7 +17,7 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot 
 </p>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "560" width="50%"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "550" width="50%"/>
 
 😇I'm currently looking forword to join a team!<br/>
 🌱 I’m currently learning Python<br/>
