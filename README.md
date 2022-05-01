@@ -58,9 +58,3 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot 
   <li>Vue To make Todo App Download this then run it (https://github.com/mdforhadulislam/vue-new-todo)</li>
 </ul>
 
-### Backend-part
-
-<ul>
-  <li>School-managment-system-api Download this then run it(https://github.com/mdforhadulislam/row-node-sechool-management-api)</li>
-</ul>
-
