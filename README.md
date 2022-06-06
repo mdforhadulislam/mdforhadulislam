@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Forhadul Islam   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h2>
+<h2 align="center">Hi there, I'm Forhadul Islam  </h2> 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
