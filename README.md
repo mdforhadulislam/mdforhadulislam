@@ -10,7 +10,7 @@
 <br/>
  <img src="https://komarev.com/ghpvc/?username=mdforhadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhadulislam" /> 
  
-<h2  align="center"> I am a Frontend web developer</h2> 
+<h2  align="center"> I am a MERN stack web developer</h2> 
 <br>
 <p  align="center">
 I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot of heart 🧡.I have always had a great thrust to learn & explore different dimensions of life. I am so fond of learning new technologies & get updated about the tech industry to see in which direction the world is moving.
@@ -23,7 +23,7 @@ I am student 📚📗📖👨🏻‍🎓✍ learning web development with a lot 
 🌱 I’m currently learning Python<br/>
 🧐I’m looking to collaborate with a team to get more knowledge!<br/>
 👯 I’m looking to collaborate on Open Source Projects!<br/>
-👨‍💻2021 Goals: Contribute more to my projects!<br/>
+👨‍💻2023 Goals: Contribute more to my projects!<br/>
 🎶Fun fact: I love to draw and singing songs!<br/>
 <br/>
 
