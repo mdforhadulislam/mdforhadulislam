@@ -3,14 +3,14 @@
 <p align="center">
   <a href="#">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Things&font=Fira%20Code&center=true&width=620&height=45&color=f75c7e&vCenter=true&size=22">
+      src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Next.js+Specialist;Building+Scalable+Web+Apps;Always+Learning+New+Things&font=Fira%20Code&center=true&width=720&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
 <p align="center">
   🚀 Full Stack Web Developer (MERN) <br/>
   💡 Focused on scalable, secure & high-performance web applications <br/>
-  🤝 Team-oriented developer who loves collaboration & clean architecture
+  🤝 Team-oriented developer who loves clean architecture & collaboration
 </p>
 
 <p align="center">
@@ -21,26 +21,23 @@
 
 ## 👨‍💻 About Me
 
-<p>
-I’m a passionate <strong>Full Stack Web Developer</strong> from Bangladesh 🇧🇩 with strong hands-on experience in the <strong>MERN stack</strong>.  
-I enjoy turning complex problems into simple, efficient, and user-friendly solutions.
-</p>
+I’m a passionate **Full Stack Web Developer** from **Bangladesh 🇧🇩** with strong hands-on experience in the **MERN stack** and **Next.js**.
 
-<p>
-I’m highly motivated to work on real-world products, collaborate with teams, and continuously
-improve my skills by exploring modern technologies and backend system design.
-</p>
+I enjoy turning complex business requirements into **simple, efficient, and scalable solutions**.  
+I actively work on **real-world applications**, focusing on performance, security, and maintainability.
+
+I’m always eager to collaborate with teams, learn new technologies, and build products that solve real problems.
 
 ---
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" width="45%" />
+<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" width="45%" />
 
 ## 🔭 What I’m Doing Now
-- ✅ Actively seeking a **Full-time / Remote / Team-based role**
+- ✅ Actively looking for **Full-time / Remote / Team-based opportunities**
 - 🌱 Learning **Python, Backend Architecture & System Design**
-- 🧩 Working on **real-world MERN & Next.js projects**
+- 🧩 Building **MERN & Next.js production-ready projects**
 - 👯 Open to **Open Source & team collaboration**
-- 🎯 2026 Goal: Build production-ready products & contribute to OSS
+- 🎯 2026 Goal: Build scalable products & contribute more to OSS
 - 🎨 Fun fact: I enjoy **drawing & singing**
 
 ---
@@ -48,7 +45,7 @@ improve my skills by exploring modern technologies and backend system design.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam&layout=compact&hide_border=true" />
 </p>
 
@@ -64,30 +61,66 @@ improve my skills by exploring modern technologies and backend system design.
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🔹 Styling
+---
+
+### 🔹 UI / Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🔹 Backend & Database
+---
+
+### 🔹 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-### 🔹 Tools & Hosting
+---
+
+### 🔹 Database & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+---
+
+### 🔹 Authentication & Security
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3EAAAF?style=for-the-badge&logo=oauth&logoColor=white)
+
+---
+
+### 🔹 Media & Cloud Services
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=files&logoColor=white)
+
+---
+
+### 🔹 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🔹 Hosting & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Focus
-- Full Stack MERN Applications
-- Next.js Production Projects
-- REST API & Authentication Systems
-- E-commerce & Admin Dashboards
-- Scalable MongoDB Schema Design
+## 📌 Domain Expertise
+- ✔ Full Stack MERN Applications  
+- ✔ Next.js App Router & API Routes  
+- ✔ Authentication (Google, Facebook, Credentials)  
+- ✔ E-commerce & Multi-Vendor Platforms  
+- ✔ Admin Panel & Role-based Access  
+- ✔ Cloudinary Media Upload Systems  
+- ✔ MongoDB Schema Design & Optimization  
 
 ---
 
