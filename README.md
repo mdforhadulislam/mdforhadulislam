@@ -45,12 +45,10 @@ I’m always eager to collaborate with teams, learn new technologies, and build 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdforhadulislam&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdforhadulislam&layout=compact&hide_border=true" />
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdforhadulislam)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdforhadulislam)
+  
 </p>
 
 ---
